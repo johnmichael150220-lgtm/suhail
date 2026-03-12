@@ -31,6 +31,6 @@ jobs:
       env:
           OWNER_NAME: Mr. Kalulu 
           OWNER_NUMBER: 255626753818
-          SESSION_ID: "3"
+          SESSION_ID: "3" 
 
       run: npm start
